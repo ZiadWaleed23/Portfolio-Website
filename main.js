@@ -1,5 +1,5 @@
 var swiper = new Swiper(".swiper", {
-    effect: "cards",
+    effect: "fade",
     allowTouchMove:false,
     grabCursor: false,
     cubeEffect: {
