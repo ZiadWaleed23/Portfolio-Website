@@ -11,6 +11,7 @@
 
 body {
     height: 100vh;
+    font-family: cursive;
 }
 
 main {
@@ -83,7 +84,7 @@ aside li i {
     margin: auto 0px;
     flex: 1;
     height: auto;
-    padding: 100px;
+    padding: 80px;
     user-select: none;
 }
 
@@ -431,7 +432,7 @@ aside li i {
     display: grid;
     grid-template-columns: 50% 50%;
     width: 100%;
-    padding: 20px;
+    padding: 10px;
     height: fit-content;
     color: white;
 }
