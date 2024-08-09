@@ -513,6 +513,10 @@ form .SocialLinks i{
     color: #fff;
 }
 
+form .SocialLinks a{
+    color: #fff;
+}
+
 form h2 .SocialLinks i:hover{
     background-color: #219EBC;
 }
